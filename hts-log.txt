@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 31 Aug 2021 18:18:52 at https://thefutur.com/course/color-for-creatives +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://thefutur.com/course/color-for-creatives -O1 "E:\not ok\httrack sites\Site" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:18:54	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link https://thefutur.com/robots.txt (from primary/primary)
+18:19:21	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://thefutur.com/course/color-for-creatives)
+18:19:21	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://thefutur.com/course/poster.JPG (from https://thefutur.com/course/color-for-creatives)
+18:19:21	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://thefutur.com/course/illustration-for-designers (from https://thefutur.com/course/color-for-creatives)
+18:19:24	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://thefutur.com/course/animation-for-designers (from https://thefutur.com/course/color-for-creatives)
+18:19:49	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://thefutur.com/course/poster.JPG (from https://thefutur.com/course/color-for-creatives)
+18:19:49	Warning: 	Retry after error 504 () at link https://thefutur.com/course/illustration-for-designers (from https://thefutur.com/course/color-for-creatives)
+18:19:49	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://thefutur.com/course/animation-for-designers (from https://thefutur.com/course/color-for-creatives)
+18:20:03	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link https://thefutur.com/course/poster.JPG (from https://thefutur.com/course/color-for-creatives)
+18:20:03	Error: 	"" (504) after 2 retries at link https://thefutur.com/course/illustration-for-designers (from https://thefutur.com/course/color-for-creatives)
+18:20:03	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link https://thefutur.com/course/animation-for-designers (from https://thefutur.com/course/color-for-creatives)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 12 seconds : 265 links scanned, 253 files written (67325275 bytes overall) [61425024 bytes received at 853125 bytes/sec], 7266208 bytes transferred using HTTP compression in 23 files, ratio 16%, 11.9 requests per connection
+(5 errors, 6 warnings, 0 messages)
